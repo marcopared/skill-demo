@@ -1,5 +1,5 @@
 public class Skilldemo {
-  public int multiply(int a, int b) {
+  public static int multiply(int a, int b) {
     return a*b;
   }
 }
